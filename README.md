@@ -27,7 +27,7 @@ I'm thrilled to be in my final year as a passionate software enthusiast at SLIIT
    food delivery industry! 🚀💻
  -   **Car Number Plate Detection App - Python**
     
-    -   In this fascinating project, I developed a car number plate detection application using Python. Leveraging the power of OpenCV and machine learning algorithms, the app accurately identifies and extracts number plates from car images. It was a thrilling experience that combined computer vision and AI, and I'm proud of the results we achieved!
+   -In this fascinating project, I developed a car number plate detection application using Python. Leveraging the power of OpenCV and machine learning algorithms, the app accurately identifies and extracts number plates from car images. It was a thrilling experience that combined computer vision and AI, and I'm proud of the results we achieved!
 
 ## Technical Skills
 
