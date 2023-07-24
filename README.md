@@ -4,7 +4,6 @@
 
 I'm thrilled to be in my final year as a passionate software enthusiast at SLIIT! 🎓 I live and breathe the world of software implementation, and my expertise lies in crafting remarkable ERP solutions. My journey into the tech realm has been a thrilling ride, and I'm always seeking new opportunities to learn and grow.
 
-
 ## Work Experience
 
 💼 Currently, I'm soaring high as an Intern at HighFlyer Global. My journey here has been incredible, filled with learning experiences and opportunities to work on exciting projects.
