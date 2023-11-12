@@ -6,7 +6,7 @@ I'm thrilled to be in my final year as a passionate software enthusiast at SLIIT
 
 ## Work Experience
 
-💼 Currently, I'm soaring high as an Intern at HighFlyer Global. My journey here has been incredible, filled with learning experiences and opportunities to work on exciting projects.
+💼 Currently, I'm soaring high as an Support Consultant at HighFlyer Global. My journey here has been incredible, filled with learning experiences and opportunities to work on exciting projects.
 
 ## Education
 
