@@ -44,7 +44,7 @@ I'm thrilled to be in my final year as a passionate software enthusiast at SLIIT
 📫 I'm enthusiastic about networking with fellow techies and professionals. Let's stay connected via:
 
 -   Email: Wgt.shaminda@gmail.com
--   LinkedIn: 
+-   LinkedIn: www.linkedin.com/in/thisara-shaminda-323868280
 -   Facebook:
 -   Instagram:
 
