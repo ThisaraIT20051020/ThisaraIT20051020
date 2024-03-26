@@ -29,6 +29,7 @@ I hold a Bachelor of Science (Honors) degree in Information Technology from SLII
 -   Javascript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraS97)](https://github.com/ThisaraS97/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
 ## Let's Connect!
 
