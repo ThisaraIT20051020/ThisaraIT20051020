@@ -5,9 +5,9 @@ I hold a Bachelor of Science (Honors) degree in Information Technology from SLII
 ## Work Experience
 
 💼
-- Business Analyst | 01-01-2024 to present
-- Support Consultant | 01-10-2023 to 31-12-2023
-- Implementation | 28-03-2023 to 31-09-2023
+- Business Analyst | 01-01-2024 to present | Highflyer
+- Support Consultant | 01-10-2023 to 31-12-2023 | Highflyer
+- Implementation | 28-03-2023 to 31-09-2023 | Highflyer
 
   
 ## Education
