@@ -28,7 +28,7 @@ I hold a Bachelor of Science (Honors) degree in Information Technology from SLII
 -   DBMS
 -   Javascript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraS97&layout=donut-vertical)](https://github.com/ThisaraS97/github-readme-stats&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraS97&layout=donut-vertical&show_icons=true&theme=transparent)](https://github.com/ThisaraS97/github-readme-stats)
 
 ## Let's Connect!
 
