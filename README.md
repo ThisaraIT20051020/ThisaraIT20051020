@@ -37,6 +37,6 @@ I hold a Bachelor of Science (Honors) degree in Information Technology from SLII
 -   Email: Wgt.shaminda@gmail.com
 -   LinkedIn: www.linkedin.com/in/thisara-shaminda-323868280
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThisaraS97)](https://github.com/ThisaraS97/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ThisaraS97/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=ThisaraS97&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
