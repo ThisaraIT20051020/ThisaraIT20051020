@@ -33,3 +33,5 @@ I hold a Bachelor of Science (Honors) degree in Information Technology from SLII
 
 -   Email: Wgt.shaminda@gmail.com
 -   LinkedIn: www.linkedin.com/in/thisara-shaminda-323868280
+
+[![](https://visitcount.itsvg.in/api?id=ThisaraS97&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
