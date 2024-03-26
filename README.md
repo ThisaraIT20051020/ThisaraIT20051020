@@ -2,7 +2,7 @@
 
 I hold a Bachelor of Science (Honors) degree in Information Technology from SLIIT. Currently, I am employed as a Business Analyst while also freelancing.
 
-![Thisara's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Thisara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisaraS97&show_icons=true&theme=transparent)
 
 ## Work Experience
 
