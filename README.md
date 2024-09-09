@@ -9,3 +9,4 @@ Hi, I'm Thisara Shaminda! As a Web Developer and Business Analyst, I thrive on s
 
 ## 📊 Profile View
 ![Profile Views](https://komarev.com/ghpvc/?username=ThisaraS97)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-500-blue?style=for-the-badge)
